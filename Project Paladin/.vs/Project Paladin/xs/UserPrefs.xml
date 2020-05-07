@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{FD489B73-A35B-FE66-90B6-25987C037FCD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/PooledObjects/PoolObjectLoader.cs">
+    <Files>
+      <File FileName="Assets/Scrips/Managers/AttackManager.cs" Line="5" Column="21" />
+      <File FileName="Assets/Scrips/Behavior/States/Abilities/Attack.cs" Line="28" Column="11" />
+      <File FileName="Assets/Scrips/Player/DamageDetector.cs" Line="93" Column="46" />
+      <File FileName="Assets/Scrips/Behavior/Base/AttackInfo.cs" Line="33" Column="34" />
+      <File FileName="Assets/Scrips/Player/CharacterController2D.cs" Line="48" Column="28" />
+      <File FileName="Assets/Scrips/Managers/PoolManager.cs" Line="15" Column="48" />
+      <File FileName="Assets/Scrips/PooledObjects/PoolObjectLoader.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
